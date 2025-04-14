@@ -1,0 +1,63 @@
+@media screen and (min-width: 768px) { 
+
+#decor-bar-shop img{
+    display: block;
+}}
+
+#decor-bar-shop img{
+    width: 5%;
+    height: auto;
+}
+
+.products img{
+    width: 150px;
+    height: auto;
+    margin-left: 150px;
+    padding: 30px;
+}
+
+
+
+
+
+
+#almond-shopproduct:hover{
+    transition: all ease 0.3s;
+    transform: rotate(8deg);
+    filter: drop-shadow(0 0 15px red);
+}
+
+#hazel-shopproduct:hover{
+    transition: all ease 0.3s;
+    transform: rotate(8deg);
+    filter: drop-shadow(0 0 15px rgb(140, 0, 255));
+
+}
+
+#pista-shopproduct:hover{
+    transition: all ease 0.3s;
+    transform: rotate(8deg);
+    filter: drop-shadow(0 0 15px rgb(30, 255, 0));
+
+}
+
+#maca-shopproduct:hover{
+    transition: all ease 0.3s;
+    transform: rotate(8deg);
+    filter: drop-shadow(0 0 15px rgb(255, 0, 195));
+
+}
+
+#almoV-shopproduct:hover{
+    transition: all ease 0.3s;
+    transform: rotate(8deg);
+    filter: drop-shadow(0 0 15px rgb(0, 255, 208));
+
+}
+
+#coco-shopproduct:hover{
+    transition: all ease 0.3s;
+    transform: rotate(8deg);
+    filter: drop-shadow(0 0 15px rgb(0, 81, 255));
+
+}
