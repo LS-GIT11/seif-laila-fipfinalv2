@@ -14,3 +14,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video
 carousel:
 Robert's in-class build done together
 
+text boxes in contact page:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input
+https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/
+mainly looked it up as a reminder and for extra stuff I could have added
