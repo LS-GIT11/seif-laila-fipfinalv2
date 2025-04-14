@@ -1,5 +1,18 @@
 #name, #email, #message, #send{
-    padding: 8px;
+    padding: 15px;
     border-radius: 8px;
+    margin: 5px;
 }
 
+#send:hover{
+    background-color: orange;
+    color: white;
+}
+
+.contact-form{
+    margin: 30px;
+}
+
+h2, p{
+    color: white;
+}
