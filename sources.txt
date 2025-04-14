@@ -1,0 +1,16 @@
+There were videos and mdn pages I used to complete this assignment. I had a failed attempted which made me not so happy (and cry) so I am trying to finish this as fast as I can without Ai, and with just self-teaching some functions I wanted in my design.
+My pages are not perfect, but I tried.
+
+---
+
+hamburger menu:
+https://www.youtube.com/watch?v=flItyHiDm7E&t=1s
+followed his video, step by step. I did fix alignment that was needed and needed padding
+did also try https://www.youtube.com/watch?v=aNDqzlAKmZc... but it did not really work out for me when i tried to follow along.
+
+importing my hero video:
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video
+
+carousel:
+Robert's in-class build done together
+
