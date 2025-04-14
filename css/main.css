@@ -1,0 +1,170 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: #000;
+}
+
+.hidden{
+    display: none;
+}
+
+header{
+    background-color: black;
+    padding-left: 10px;
+    height: 100px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav-bar{
+    min-height: 70xp;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+}
+
+.nav-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 60px;
+}
+
+.nav-branding{
+    width: 200px;
+    height: auto;
+}
+
+.nav-link{
+    transition: 0.5 ease;
+
+}
+
+.nav-link:hover{
+    color: orange;
+}
+
+.ham{
+    display: none;
+}
+
+.bar{
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    transition: all 0.3s ease-in-out;
+    background-color: white;
+}
+
+img{
+    margin: 15px;
+}
+
+.hero-video {
+    height: 70vh;
+    object-fit: cover;
+}
+
+.hero-video {
+    width: 100vw;
+    height: auto;
+    object-fit: cover;
+    display: block;
+}
+
+
+.box {
+    height: 100px;
+    margin: 10px;
+    background-color: #f68b42;
+    border-radius: 8px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#info-sect {
+    background-color: #000;
+}
+
+footer{
+    background-color: #151414;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+
+#menu-footer {
+    text-align: center;
+    }
+    
+    #menu-footer li {
+    margin-bottom: 15px;
+    }
+    
+    #menu-footer li a {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    }
+
+@media(max-width:768px){
+    .ham{
+        display: block;
+    }
+
+
+    .ham.active .bar:nth-child(1){
+        transform: translateY(8px);
+    }
+
+    .ham.active .bar:nth-child(3){
+        transform: translateY(-8px);
+    }
+
+    .nav-menu{
+        position: fixed;
+        left:-100%;
+        top:70px;
+        gap:0;
+        flex-direction: column;
+        background-color: black;
+        width: 100%;
+        text-align: center;
+        transform: 0.3 ease;
+    }
+
+    .nav-item{
+        margin: 15px;
+    }
+
+    .nav-menu.active{
+        left: 0;
+        padding: 30px;
+        row-gap: 30px;
+        margin-top: 15px;
+
+    }
+}
+
+@media (min-width:1200px) {
+    .hero-video {
+        height: 70vh;
+        object-fit: cover;
+    }
+}
