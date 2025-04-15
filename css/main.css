@@ -111,17 +111,18 @@ footer{
 
 #menu-footer {
     text-align: center;
-    }
+}
     
-    #menu-footer li {
+#menu-footer li {
     margin-bottom: 15px;
-    }
+}
     
-    #menu-footer li a {
+#menu-footer li a {
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
-    }
+}
+
 
 @media(max-width:768px){
     .ham{
@@ -146,10 +147,10 @@ footer{
         background-color: black;
         width: 100%;
         text-align: center;
-        transform: 0.3 ease;
+        transform: all 0.3 ease;
     }
 
-    .nav-item{
+    .nav-items{
         margin: 15px;
     }
 
@@ -158,7 +159,7 @@ footer{
         padding: 30px;
         row-gap: 30px;
         margin-top: 15px;
-
+        z-index: 1000;
     }
 }
 

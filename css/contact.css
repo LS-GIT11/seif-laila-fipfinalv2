@@ -13,6 +13,36 @@
     margin: 30px;
 }
 
+.contact-form p, .contact-form h2{
+    padding-bottom: 20px;
+}
+
 h2, p{
     color: white;
+}
+
+.contact-text {
+    margin: 30px;
+    color: white;
+    text-align: left;
+}
+
+.contact-text h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.contact-text p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+@media(max-width:768px){
+
+    
+}
+
+@media(max-width:1200px){
+
+    
 }
