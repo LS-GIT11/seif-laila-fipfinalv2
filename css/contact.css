@@ -1,5 +1,5 @@
 #name, #email, #message, #send{
-    padding: 15px;
+    padding: 10px;
     border-radius: 8px;
     margin: 5px;
 }
@@ -35,6 +35,10 @@ h2, p{
 .contact-text p {
     font-size: 1.2em;
     margin: 10px 0;
+}
+
+.space{
+    padding: 60px;
 }
 
 @media(max-width:768px){
