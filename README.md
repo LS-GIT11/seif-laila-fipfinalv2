@@ -1,3 +1,11 @@
+# FINAL INTEGRATED PROJECT (FIP)
+Rebrand of Dr.Nut. FIP Term 2. My last repo was not doing it for me.
+
+## seif-laila-fipfinalv2
+ Rebrand & Marketing Campaign for old, discontinued beverage. Rebranded DR.NUT into energy nut flavoured coffee, advertised to students and teens. This part of FIP: "A fully functional responsive website with some dynamic content (HTML/CSS/JS/Image files, etc,). This will need to be maintained using Git for version control and uploaded to GitHub by you. Include the web-ready assets via the GitHub link as part of your submission for this course." 
+
+### Also found in sources.txt file
+
 There were videos and mdn pages I used to complete this assignment. I had a failed attempted which made me not so happy (and cry) so I am trying to finish this as fast as I can without Ai, and with just self-teaching some functions I wanted in my design.
 My pages are not perfect, but I tried.
 
@@ -11,7 +19,7 @@ added my list (my nav) and using spans created the actual icon using css (honesl
 
 importing my hero video:
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/video
-I literally just looked up "how to import video in html" and looked for the first mdn link because <img> was not working. I was not so happy because of that until I found this link. :> 
+I literally just looked up "how to import video in html" and looked for the first mdn link because img tag was not working. I was not so happy because of that until I found this link.
 
 carousel:
 Robert's in-class build done together
@@ -25,5 +33,3 @@ mainly looked it up as a reminder and for extra stuff I could have added
 Additional code:
 https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
 I was tweaking out why my hamburger menu links stopped working when toggle on and the menu displays... i tried looking up "why menu links are not working though connected in html" then came across this thread: https://forum.freecodecamp.org/t/nav-links-are-not-working/521580/4... they mention "raising z-index" and thought was something in the way? looked it up and tried it out. wonderful find. kinda remined me of raising layer in adobe suite software if something was not letting me click it? 
-
-
